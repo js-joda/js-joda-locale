@@ -56,7 +56,7 @@
     "cldr-data": "^31.0.2",
     "cldrjs": "^0.4.8",
     "coveralls": "^2.13.1",
-    "esdoc": "^0.5.2",
+    "esdoc": "^1.0.1",
     "eslint": "^4.0.0",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-config-standard": "^10.2.1",
