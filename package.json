@@ -82,7 +82,7 @@
     "requirejs": "^2.3.5",
     "requirejs-json": "0.0.3",
     "requirejs-text": "^2.0.15",
-    "webpack": "^3.10.0",
+    "webpack": "^4.0.0",
     "webpack-build-notifier": "^0.1.21",
     "yargs": "^10.0.3"
   },
