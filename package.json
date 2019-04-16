@@ -76,7 +76,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^3.0.5",
     "mocha": "^5.2.0",
-    "nyc": "^13.1.0",
+    "nyc": "^14.0.0",
     "phantomjs-prebuilt": "^2.1.16",
     "requirejs": "^2.3.6",
     "requirejs-json": "0.0.3",
