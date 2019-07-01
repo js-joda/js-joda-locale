@@ -1,5 +1,8 @@
-additional date-time classes that complement those in js-joda
-==============================================
+# !This package is deprecated!
+
+The current version has been moved to the js-joda mono repository, see https://github.com/js-joda/js-joda
+
+# additional date-time classes that complement those in js-joda
 
 [![npm version](https://badge.fury.io/js/%40js-joda%2Flocale.svg)](https://badge.fury.io/js/%40js-joda%2Flocale)
 [![Build Status](https://travis-ci.org/js-joda/js-joda-locale.svg?branch=master)](https://travis-ci.org/js-joda/js-joda-locale)
